@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="44" started-at="2020-10-03T12:27:40 EDT" finished-at="2020-10-03T12:27:40 EDT">
+  <suite name="Suite" duration-ms="64" started-at="2020-10-10T12:14:56 EDT" finished-at="2020-10-10T12:14:56 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="44" started-at="2020-10-03T12:27:40 EDT" finished-at="2020-10-03T12:27:40 EDT">
+    <test name="Test" duration-ms="64" started-at="2020-10-10T12:14:56 EDT" finished-at="2020-10-10T12:14:56 EDT">
       <class name="helloWorld.helloWorld">
-        <test-method status="PASS" signature="display()[pri:0, instance:helloWorld.helloWorld@5c5a1b69]" name="display" duration-ms="8" started-at="2020-10-03T12:27:40 EDT" finished-at="2020-10-03T12:27:40 EDT">
+        <test-method status="PASS" signature="display()[pri:0, instance:helloWorld.helloWorld@17579e0f]" name="display" duration-ms="13" started-at="2020-10-10T12:14:56 EDT" finished-at="2020-10-10T12:14:56 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
       </class> <!-- helloWorld.helloWorld -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
